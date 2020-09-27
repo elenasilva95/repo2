@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular8"
+    }
+  },
+  "defaultProject": "Angular8",
+  "cli": {
+    "analytics": "089ae0f5-df96-4e71-8d37-56fdac7dbe7f"
+  }
 }
